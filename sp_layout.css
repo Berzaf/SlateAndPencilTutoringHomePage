@@ -86,4 +86,10 @@ ul#topics > li {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
- }  
+ }
+/* HR Styles */
+
+hr {
+    width: 50%;
+ }
+ 
