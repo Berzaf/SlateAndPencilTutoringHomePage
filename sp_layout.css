@@ -28,4 +28,10 @@ body {
  header, ul, nav, li, a {
     box-sizing: border-box;
  }
- 
+/* Row Styles */
+
+[class^="row"]::after {
+    clear: both;
+    content: "";
+    display: table;
+ } 
